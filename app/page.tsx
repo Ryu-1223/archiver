@@ -3,6 +3,7 @@ const projects = [
   { title: 'ことばの標本箱', description: '気になった言葉を集めて、静かに眺めるための場所。', category: 'ツール', year: '2024', url: 'https://example.com', tone: 'sand' },
   { title: '音のない読書室', description: '本のメモと、そのとき考えていたことの記録。', category: '記録', year: '2023', url: 'https://example.vercel.app', tone: 'clay' },
   { title: '週末の地図', description: '知らない街を歩くための、個人的なガイド。', category: '実験', year: '2023', url: 'https://example.com', tone: 'blue' },
+  { title: 'Basketball Record', description: 'バスケットボールの記録を、気軽に残して振り返るためのサイト。', category: '記録', year: '2024', url: 'https://basketball-record.vercel.app', tone: 'ink' },
 ]
 
 function ArrowIcon() {
